@@ -1,3 +1,7 @@
+// Tugas Java Structure
+// Soal nomor 5 - Buatlah program untuk menghitung n? = 1+2+3+……+n, nilai n diinputkan dari keyboard.
+//                Syarat pakai method yang mengembalikan nilai
+
 import java.util.Scanner;
 
 public class SisaBagi {
